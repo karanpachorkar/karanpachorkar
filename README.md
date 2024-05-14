@@ -7,6 +7,8 @@
 
 - 🔭 I’m currently working on **TaxiTrackr-Track your Taxi Journey**
 
+- 👯 I’m looking to collaborate on **Data Science Projects**
+
 - 📫 How to reach me **karanpachorkar12@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
