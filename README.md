@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Karan Pachorkar</h1>
-<h3 align="center">Passionate about leveraging data science to drive informed decision.</h3>
+<h3 align="center">Passionate about leveraging AI and data science to drive informed decision.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karanpachorkar&label=Profile%20views&color=0e75b6&style=flat" alt="karanpachorkar" /> </p>
 
