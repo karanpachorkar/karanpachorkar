@@ -5,9 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=karanpachorkar" alt="karanpachorkar" /></a> </p>
 
-- 🔭 I’m currently working on **TaxiTrackr-Track your Taxi Journey**
 
-- 👯 I’m looking to collaborate on **Data Science Projects**
 
 - 📫 How to reach me **karanpachorkar12@gmail.com**
 
